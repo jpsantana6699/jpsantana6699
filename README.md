@@ -6,7 +6,7 @@
 
 </div>
 
-### 🚀 About Me:
+### 🚀 Sobre Mim:
 
 <div align="left">
   
