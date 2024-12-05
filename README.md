@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ## Olá, eu sou o João Pedro Santana! <img height="30" src="https://cdn3.emoji.gg/emojis/6435-cursor.gif" height="64px">
+  ## Olá, Eu sou o João Pedro Santana! <img height="30" src="https://cdn3.emoji.gg/emojis/6435-cursor.gif" height="64px">
 
 </div>
 
