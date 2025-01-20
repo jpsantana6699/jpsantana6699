@@ -20,6 +20,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+> Nota: Meu gráfico de commits e linguagens reflete apenas contribuições em repositórios públicos. Repositórios privados, como os de organizações e empresas, não estão incluídos aqui devido a restrições de privacidade.
+
+
 ### 🎯 Atualmente com conhecimento em:
 <div align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
