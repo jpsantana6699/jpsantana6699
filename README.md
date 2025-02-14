@@ -14,23 +14,13 @@
   
 </div>
   
-<div center>
-<a href="https://github.com/jpsantana6699">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantana6699&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpsantana6699" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=dark&locale=en" alt="jpsantana6699" /></p>
-
-</div>
-
-> Nota: Meu gráfico de commits e linguagens reflete apenas contribuições em repositórios públicos. Repositórios privados, como os de organizações e empresas, não estão incluídos aqui devido a restrições de privacidade.
-
-
 ### 🎯 Atualmente com conhecimento em:
 <div align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
@@ -57,4 +47,13 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-santana-01570623a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div center>
+<a href="https://github.com/jpsantana6699">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantana6699&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpsantana6699" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=dark&locale=en" alt="jpsantana6699" /></p>
+
+</div>
+
+> Nota: Meu gráfico de commits e linguagens reflete apenas contribuições em repositórios públicos. Repositórios privados, como os de organizações e empresas, não estão incluídos aqui devido a restrições de privacidade.
 ---
