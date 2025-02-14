@@ -10,14 +10,16 @@
 
 <div align="left">
   
-  Sou analista de dados e Power BI junior, com 21 anos, atualmente cursando na Unifran - Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia e acredito que, nessa área, é essencial ter conhecimento em diversas frentes. Meu foco está em áreas como segurança, cibersegurança e perícia, mas sempre busco expandir minhas habilidades em diferentes tecnologias. Tenho experiência em diversas ferramentas e adoro participar de projetos que entreguem soluções impactantes.
+  Sou analista de dados e Power BI junior e futuro Dev. Back End, com 21 anos, atualmente cursando na Unifran - Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia e acredito que, nessa área, é essencial ter conhecimento em diversas frentes. Meu foco está em áreas como segurança, cibersegurança e perícia, mas sempre busco expandir minhas habilidades em diferentes tecnologias. Tenho experiência em diversas ferramentas e adoro participar de projetos que entreguem soluções impactantes.
   
 </div>
   
 <div center>
 <a href="https://github.com/jpsantana6699">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantana6699&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsantana6699&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpsantana6699" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=dark&locale=en" alt="jpsantana6699" /></p>
+
 </div>
 
 > Nota: Meu gráfico de commits e linguagens reflete apenas contribuições em repositórios públicos. Repositórios privados, como os de organizações e empresas, não estão incluídos aqui devido a restrições de privacidade.
@@ -34,6 +36,8 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 </div>
+
+![ Animação de cobra ](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
 
 ### 🎉 Hobbies:
 
