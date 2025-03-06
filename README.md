@@ -10,7 +10,7 @@
 
 <div align="left">
   
-  Sou analista de dados e Power BI junior e futuro Dev. Back End, com 21 anos, atualmente cursando na Unifran - Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia e acredito que, nessa área, é essencial ter conhecimento em diversas frentes. Meu foco está em áreas como segurança, cibersegurança e perícia, mas sempre busco expandir minhas habilidades em diferentes tecnologias. Tenho experiência em diversas ferramentas e adoro participar de projetos que entreguem soluções impactantes.
+  Sou analista de dados e Power BI Junior e Dev. Back End Junior, com 21 anos, atualmente cursando na Unifran - Cruzeiro do Sul Virtual. Sou apaixonado por tecnologia e acredito que, nessa área, é essencial ter conhecimento em diversas frentes. Meu foco está em áreas como segurança, cibersegurança e perícia, mas sempre busco expandir minhas habilidades em diferentes tecnologias. Tenho experiência em diversas ferramentas e adoro participar de projetos que entreguem soluções impactantes.
   
 </div>
   
