@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Olá, eu sou o João Pedro Santana!  
+# 👋 Olá, eu sou o João Pedro Santana!
+<img src="https://komarev.com/ghpvc/?username=jpsantana6699&style=flat-square&color=7AB1F0" alt=""/>
 <img height="30" src="https://cdn3.emoji.gg/emojis/6435-cursor.gif" alt="Cursor"/>
 
 </div>
