@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 Sou **Analista de Dados** e **Desenvolvedor Back-End Júnior**, atualmente com 21 anos e cursando graduação em Tecnologia pela **Unifran – Cruzeiro do Sul Virtual**.  
-Atuo com **análise de dados** e **Power BI**, mas meu foco principal está no **desenvolvimento back-end**.
+Atuo tanto com **análise de dados** e **Power BI** quanto com **desenvolvimento back-end**, dedicando maior foco e empenho a esta última área.
 
 Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnologias front-end e back-end para criar soluções web completas, escaláveis e eficientes.
 
