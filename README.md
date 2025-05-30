@@ -41,7 +41,7 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=radical&cache_seconds=3000" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantana6699&layout=compact&theme=radical&cache_seconds=3600" alt="Top Langs"/>
 </div>
 
