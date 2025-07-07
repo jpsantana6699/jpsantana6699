@@ -22,7 +22,7 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
 <div align="left">
   
   ### Linguagens e Frameworks
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,react,nextjs"/>
  
   ### ORMs e Banco de Dados
   <img src="https://skillicons.dev/icons?i=sequelize,prisma,mongodb,mysql"/>
@@ -30,7 +30,7 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/>
 
   ### Ferramentas e Outros
-  <img src="https://skillicons.dev/icons?i=docker,postman,jest,git,github"/>
+  <img src="https://skillicons.dev/icons?i=docker,postman,jest,git,github,figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" alt="DBeaver"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger"/>
 
