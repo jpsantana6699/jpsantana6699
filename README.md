@@ -37,8 +37,8 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=radical&cache_seconds=1000" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantana6699&layout=compact&theme=radical&cache_seconds=1000" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=radical&cache_seconds=100" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantana6699&layout=compact&theme=radical&cache_seconds=100" alt="Top Langs"/>
 
 > ⚠️ *Nota: As estatísticas e linguagens se referem apenas aos repositórios públicos. Repositórios privados não estão incluídos devido à política de privacidade do GitHub.*
 </div>
@@ -69,9 +69,17 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 <div align="center">
-
- ![snake gif](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
