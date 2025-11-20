@@ -22,7 +22,7 @@ Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnolo
 <div align="left">
   
   ### Linguagens e Frameworks
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,python,react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,typescript,nodejs,express,python,react,nextjs"/>
  
   ### ORMs e Banco de Dados
   <img src="https://skillicons.dev/icons?i=sequelize,prisma,mongodb,mysql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" width="40" alt="Mongoose"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/>
