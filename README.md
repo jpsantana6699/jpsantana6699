@@ -10,10 +10,16 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Dados**, **Desenvolvedor Back-End Júnior** e **Desenvolvedor Full-Stack Júnior**, atualmente com 21 anos e cursando graduação em Tecnologia pela **Unifran – Cruzeiro do Sul Virtual**.  
-Atuo tanto com **análise de dados** e **Power BI** quanto com **desenvolvimento back-end**, dedicando maior foco e empenho a esta última área.
+Sou Desenvolvedor Full Stack com atuação em Back-End, Front-End e Dados/BI. Trabalho com foco em criar soluções web completas, escaláveis e orientadas ao negócio.
 
-Tenho como objetivo me tornar um **Desenvolvedor Full Stack**, dominando tecnologias front-end e back-end para criar soluções web completas, escaláveis e eficientes.
+No Back-End, atuo com Node.js, TypeScript e SQL Server, desenvolvendo APIs, automações e integrações entre sistemas.  
+No Front-End, trabalho com React, Next.js e TypeScript, criando interfaces modernas, performáticas e focadas na experiência do usuário.  
+Também utilizo Power BI para análise e visualização de dados, conectando tecnologia à tomada de decisão.
+
+Gosto de entender o problema de ponta a ponta — da regra de negócio à implementação — e valorizo código limpo, bem documentado e com boas práticas de arquitetura.
+
+🚀 Sempre em evolução, aberto a desafios, aprendizado contínuo e projetos que gerem impacto real.
+
 
 ---
 
