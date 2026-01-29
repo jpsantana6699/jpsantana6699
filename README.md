@@ -41,10 +41,25 @@ Gosto de entender o problema de ponta a ponta — da regra de negócio à implem
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpsantana6699&theme=radical" 
+    width="100%" 
+  />
+</p>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jpsantana6699&show_icons=true&theme=radical&cache_seconds=3200" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsantana6699&layout=compact&theme=radical&cache_seconds=3200" alt="Top Langs"/>
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpsantana6699&theme=radical" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jpsantana6699&theme=radical" 
+    width="48%" 
+  />
+</p>
 
 > ⚠️ *Nota: As estatísticas e linguagens se referem apenas aos repositórios públicos. Repositórios privados não estão incluídos devido à política de privacidade do GitHub.*
 </div>
