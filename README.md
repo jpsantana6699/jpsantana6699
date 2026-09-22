@@ -1,106 +1,47 @@
-<div align="center">
-
-# 👋 Olá, eu sou o João Pedro Santana!
-<img src="https://komarev.com/ghpvc/?username=jpsantana6699&style=flat-square&color=7AB1F0" alt=""/>
-<img height="30" src="https://cdn3.emoji.gg/emojis/6435-cursor.gif" alt="Cursor"/>
-
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou Desenvolvedor Full Stack com atuação em Back-End, Front-End e Dados/BI. Trabalho com foco em criar soluções web completas, escaláveis e orientadas ao negócio.
-
-No Back-End, atuo com Node.js, TypeScript e SQL Server, desenvolvendo APIs, automações e integrações entre sistemas.  
-No Front-End, trabalho com React, Next.js e TypeScript, criando interfaces modernas, performáticas e focadas na experiência do usuário.  
-Também utilizo Power BI para análise e visualização de dados, conectando tecnologia à tomada de decisão.
-
-Gosto de entender o problema de ponta a ponta — da regra de negócio à implementação — e valorizo código limpo, bem documentado e com boas práticas de arquitetura.
-
-🚀 Sempre em evolução, aberto a desafios, aprendizado contínuo e projetos que gerem impacto real.
-
-
----
-
-## 🧠 Tecnologias e Ferramentas
-
-<div align="left">
-  
-  ### Linguagens e Frameworks
-  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,typescript,nodejs,express,python,react,nextjs"/>
- 
-  ### ORMs e Banco de Dados
-  <img src="https://skillicons.dev/icons?i=sequelize,prisma,mongodb,mysql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" width="40" alt="Mongoose"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/>
-
-  ### Ferramentas e Outros
-  <img src="https://skillicons.dev/icons?i=docker,postman,jest,git,github,figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" alt="DBeaver"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" alt="Swagger"/>
-
-</div>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpsantana6699&theme=radical" 
-    width="100%" 
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpsantana6699&theme=radical" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jpsantana6699&theme=radical" 
-    width="48%" 
-  />
-</p>
-
-> ⚠️ *Nota: As estatísticas e linguagens se referem apenas aos repositórios públicos. Repositórios privados não estão incluídos devido à política de privacidade do GitHub.*
-</div>
-
----
-
-## 📫 Como me encontrar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Jo%C3%A3o%20Pedro%20Santana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="João Pedro Santana — Desenvolvedor Full Stack"/>
 
 <div align="center">
-  <a href="https://www.instagram.com/jpsantana9922/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:jpsantana003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-santana-01570623a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AB1F0&center=true&vCenter=true&width=520&lines=APIs+e+integra%C3%A7%C3%B5es+com+Node.js+%2B+TypeScript;Interfaces+modernas+com+React+%2B+Next.js;Dados+e+BI+com+SQL+Server+%2B+Power+BI" alt="Typing SVG"/>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-santana-01570623a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jpsantana003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
 
----
+## 🚀 Sobre mim
 
-## 🎉 Hobbies
+Desenvolvedor Full Stack focado em soluções web completas, escaláveis e orientadas ao negócio — da regra de negócio à entrega.
 
-- 🎧 Apaixonado por música  
-- ⚡️ Amante de animes e filmes  
-- 🎮 Viciado em videogames  
+- ⚙️ **Back-End** — APIs, automações e integrações entre sistemas com Node.js, TypeScript e SQL Server
+- 🎨 **Front-End** — interfaces modernas e performáticas com React, Next.js e TypeScript
+- 📊 **Dados/BI** — análise e visualização com Power BI, conectando tecnologia à tomada de decisão
+- 🧹 Valorizo código limpo, boas práticas de arquitetura e aprendizado contínuo
 
----
+## 🧠 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,nextjs,python,java&perline=8" alt="Linguagens e frameworks"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,sequelize,docker,git,github,postman,jest,figma&perline=10" alt="Bancos, ORMs e ferramentas"/>
+
+</div>
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpsantana6699&theme=tokyonight" width="100%" alt="Resumo do perfil"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph.svg">
 </picture>
+
+<sub>🎧 Música · 🎬 Animes e filmes · 🎮 Videogames</sub>
+
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt=""/>
