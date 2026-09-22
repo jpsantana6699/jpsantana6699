@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AB1F0&center=true&vCenter=true&width=520&lines=APIs+e+integra%C3%A7%C3%B5es+com+Node.js+%2B+TypeScript;Interfaces+modernas+com+React+%2B+Next.js;Dados+e+BI+com+SQL+Server+%2B+Power+BI" alt="Typing SVG"/>
 
+<a href="https://joaopedrotech.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7AB1F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-santana-01570623a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jpsantana003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -32,7 +33,7 @@ Desenvolvedor Full Stack focado em soluções web completas, escaláveis e orien
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpsantana6699&theme=tokyonight" width="100%" alt="Resumo do perfil"/>
+<img src="https://streak-stats.demolab.com?user=jpsantana6699&theme=tokyonight&hide_border=true&background=0D1117&ring=7AB1F0&fire=7AB1F0&currStreakLabel=7AB1F0&locale=pt_BR" width="80%" alt="GitHub streak"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph-dark.svg">
