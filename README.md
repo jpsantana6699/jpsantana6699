@@ -33,7 +33,7 @@ Desenvolvedor Full Stack focado em soluções web completas, escaláveis e orien
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
+<img src="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-stats.svg?v=2" width="100%" alt="Estatísticas do GitHub"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph-dark.svg">
