@@ -33,7 +33,7 @@ Desenvolvedor Full Stack focado em soluções web completas, escaláveis e orien
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jpsantana6699&theme=tokyonight&hide_border=true&background=0D1117&ring=7AB1F0&fire=7AB1F0&currStreakLabel=7AB1F0&locale=pt_BR" width="80%" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/github-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsantana6699/jpsantana6699/output/pacman-contribution-graph-dark.svg">
