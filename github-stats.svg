@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="200" viewBox="0 0 820 200" role="img" aria-label="Estatísticas do GitHub">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { font-size: 15px; font-weight: 600; fill: #7AB1F0; }
+    .value { font-size: 26px; font-weight: 700; fill: #E6EDF3; }
+    .label { font-size: 12px; fill: #8B949E; }
+    .lang { font-size: 13px; fill: #E6EDF3; }
+    .percent { font-size: 12px; fill: #8B949E; }
+  </style>
+  <rect x="0.5" y="0.5" width="819" height="199" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <text x="32" y="36" class="title">Atividade no último ano</text>
+  <text x="452" y="36" class="title">Linguagens mais usadas</text>
+  <line x1="420" y1="28" x2="420" y2="172" stroke="#30363D"/>
+  
+    <text x="32" y="86" class="value">509</text>
+    <text x="32" y="108" class="label">Contribuições no ano</text>
+    <text x="162" y="86" class="value">190</text>
+    <text x="162" y="108" class="label">Commits</text>
+    <text x="292" y="86" class="value">165</text>
+    <text x="292" y="108" class="label">Pull requests</text>
+    <text x="32" y="156" class="value">137</text>
+    <text x="32" y="178" class="label">Issues</text>
+    <text x="162" y="156" class="value">14</text>
+    <text x="162" y="178" class="label">Code reviews</text>
+    <text x="292" y="156" class="value">23</text>
+    <text x="292" y="178" class="label">Repositórios</text>
+  
+    <clipPath id="bar"><rect x="452" y="64" width="336" height="10" rx="5"/></clipPath>
+    <rect x="452" y="64" width="336" height="10" rx="5" fill="#21262D"/>
+    <g clip-path="url(#bar)"><rect x="452" y="64" width="133.66357618557498" height="10" fill="#3178c6"/><rect x="585.663576185575" y="64" width="88.31645637270931" height="10" fill="#f1e05a"/><rect x="673.9800325582844" y="64" width="42.856038183083875" height="10" fill="#663399"/><rect x="716.8360707413683" y="64" width="31.52673231289591" height="10" fill="#fcb32c"/><rect x="748.3628030542642" y="64" width="26.889451802689585" height="10" fill="#e34c26"/><rect x="775.2522548569538" y="64" width="12.747745143046345" height="10" fill="#b07219"/></g>
+    
+    <circle cx="457" cy="104" r="5" fill="#3178c6"/>
+    <text x="470" y="108" class="lang">TypeScript</text>
+    <text x="602" y="108" class="percent" text-anchor="end">38,6%</text>
+    <circle cx="627" cy="104" r="5" fill="#f1e05a"/>
+    <text x="640" y="108" class="lang">JavaScript</text>
+    <text x="772" y="108" class="percent" text-anchor="end">25,5%</text>
+    <circle cx="457" cy="134" r="5" fill="#663399"/>
+    <text x="470" y="138" class="lang">CSS</text>
+    <text x="602" y="138" class="percent" text-anchor="end">12,4%</text>
+    <circle cx="627" cy="134" r="5" fill="#fcb32c"/>
+    <text x="640" y="138" class="lang">MDX</text>
+    <text x="772" y="138" class="percent" text-anchor="end">9,1%</text>
+    <circle cx="457" cy="164" r="5" fill="#e34c26"/>
+    <text x="470" y="168" class="lang">HTML</text>
+    <text x="602" y="168" class="percent" text-anchor="end">7,8%</text>
+    <circle cx="627" cy="164" r="5" fill="#b07219"/>
+    <text x="640" y="168" class="lang">Java</text>
+    <text x="772" y="168" class="percent" text-anchor="end">3,7%</text>
+</svg>
